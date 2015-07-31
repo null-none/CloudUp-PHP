@@ -1,5 +1,5 @@
 # CloudUp-PHP
-Class for use Cloudup API.
+Class for use [service Cloudup API](https://cloudup.com) .
 
 ``` php
 $user = 'user';
